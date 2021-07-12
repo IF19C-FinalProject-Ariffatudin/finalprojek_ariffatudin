@@ -1,0 +1,2 @@
+rootProject.name = "pengingat tugas"
+include ':app'
